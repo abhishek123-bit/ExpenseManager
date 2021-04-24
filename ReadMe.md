@@ -4,11 +4,11 @@ I have made an Expense Manger application
 
 ## Features in the application
 
-1. Can Add transaction. 
+1. Add transaction. 
 
-2. Can edit the transaction.
+2. Edit the transaction.
 
-3. Can delete the transaction.
+3. Delete the transaction.
 
 ## Previews of the application
 
